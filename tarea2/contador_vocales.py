@@ -1,5 +1,8 @@
 def contar_vocales_con_y_sin_tilde(frase):
-    vocales_con_tilde = {'á': 'a', 'é': 'e', 'í': 'i', 'ó': 'o', 'ú': 'u', 'Á': 'A', 'É': 'E', 'Í': 'I', 'Ó': 'O', 'Ú': 'U'}
+    vocales_con_tilde = {'á': 'a', 'é': 'e', 'í': 'i', 
+                         'ó': 'o', 'ú': 'u', 'Á': 'A', 
+                         'É': 'E', 'Í': 'I', 'Ó': 'O', 
+                         'Ú': 'U'}
     contador_con_tilde = 0
     contador_sin_tilde = 0
     
